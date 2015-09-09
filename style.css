@@ -1,0 +1,30 @@
+body
+{
+    background: url('img/fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+	margin:auto;
+}
+
+h1{
+color:Blue;
+}
+
+h2{
+color:#931800;
+}
+
+.container{
+height: 50px;
+margin:2%;
+margin-bottom:60%;
+}
+
+footer{
+padding:20px;
+margin-left:auto;
+margin-right:auto;
+margin-top:20px;
+width:60%;
+border-radius:20px;
+}
